@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.all{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1%;
+}
+.item{
+    width: 23%;
+}
+.item img{
+    width: 100%;
+}
